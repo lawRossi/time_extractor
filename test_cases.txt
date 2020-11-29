@@ -1,0 +1,102 @@
+2020-06-02 21:00:00
+晚上有球赛吗？	晚上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "晚上"}
+昨晚有球赛吗？	昨晚	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 1, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "昨晚"}
+明晚有球赛吗？	明晚	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "明晚"}
+前天晚上有球赛吗？	前天晚上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 5, "day": 31, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 1, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "前天晚上"}
+昨晚十二点半有球赛吗？	昨晚十二点半	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 0, "minute": 30, "second": null, "weekday": null, "raw": "昨晚十二点半"}
+后天晚上有球赛吗？	后天晚上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 5, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "后天晚上"}
+今天有球赛吗？	今天	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "今天"}
+明天有球赛吗？	明天	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "明天"}
+后天有球赛吗？	后天	Time	{"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "后天"}
+昨天晚上十二点有球赛吗？	昨天晚上十二点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 0, "minute": null, "second": null, "weekday": null, "raw": "昨天晚上十二点"}
+昨天晚上三点有球赛吗？	昨天晚上三点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "昨天晚上三点"}
+昨晚十二点有球赛吗？	昨晚十二点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 0, "minute": null, "second": null, "weekday": null, "raw": "昨晚十二点"}
+昨晚三点有球赛吗？	昨晚三点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "昨晚三点"}
+今天晚上8点有球赛吗？	今天晚上8点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 20, "minute": null, "second": null, "weekday": null, "raw": "今天晚上8点"}
+今天晚上3点有球赛吗？	今天晚上3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "今天晚上3点"}
+今晚3点有球赛吗？	今晚3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "今晚3点"}
+明晚9点有球赛吗？	明晚9点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 21, "minute": null, "second": null, "weekday": null, "raw": "明晚9点"}
+明早9点有球赛吗？	明早9点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 9, "minute": null, "second": null, "weekday": null, "raw": "明早9点"}
+明早4点有球赛吗？	明早4点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 4, "minute": null, "second": null, "weekday": null, "raw": "明早4点"}
+明天晚上9点有球赛吗？	明天晚上9点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 21, "minute": null, "second": null, "weekday": null, "raw": "明天晚上9点"}
+明天晚上3点有球赛吗？	明天晚上3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "明天晚上3点"}
+晚上8:45有球赛吗？	晚上8:45	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 20, "minute": 45, "second": null, "weekday": null, "raw": "晚上8:45"}
+今晚8点45分有球赛吗？	今晚8点45分	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 20, "minute": 45, "second": null, "weekday": null, "raw": "今晚8点45分"}
+昨晚八点有比赛吗？	昨晚八点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 1, "hour": 20, "minute": null, "second": null, "weekday": null, "raw": "昨晚八点"}
+这周有球赛吗？	这周	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 5, "day": 31, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 6, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "raw": "这周"}
+下周有球赛吗？	下周	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 7, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 13, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "raw": "下周"}
+上周有球赛吗？	上周	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 5, "day": 24, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 5, "day": 30, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "raw": "上周"}
+这周末有球赛吗？	这周末	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 6, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 7, "hour": 23, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "这周末"}
+周末有球赛吗？	周末	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 6, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 7, "hour": 23, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "周末"}
+上周末有球赛吗？	上周末	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 5, "day": 30, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 5, "day": 31, "hour": 23, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "上周末"}
+下周末有球赛吗？	下周末	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 13, "hour": 0, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 14, "hour": 23, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "下周末"}
+上周三有球赛吗？	上周三	Time	{"type": "Time", "year": 2020, "month": 5, "day": 27, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "上周三"}
+这周二有球赛吗？	这周二	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "这周二"}
+周三有球赛吗？	周三	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "周三"}
+周三晚上有球赛吗？	周三晚上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "周三晚上"}
+周二下午有球赛吗？	周二下午	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 13, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 17, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "周二下午"}
+下周二早上有球赛吗？	下周二早上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 9, "hour": 6, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 9, "hour": 9, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "下周二早上"}
+周二上午有球赛吗？	周二上午	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 6, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 11, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "周二上午"}
+周二中午有球赛吗？	周二中午	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 12, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 12, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "周二中午"}
+11月4号有球赛吗？	11月4号	Time	{"type": "Time", "year": 2020, "month": 11, "day": 4, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "11月4号"}
+上周周二有球赛吗？	上周周二	Time	{"type": "Time", "year": 2020, "month": 5, "day": 26, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "上周周二"}
+下周星期三晚上有球赛吗？	下周星期三晚上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 10, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 11, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "下周星期三晚上"}
+下星期周四晚上10点有比赛吗？	下星期周四晚上10点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 11, "hour": 22, "minute": null, "second": null, "weekday": null, "raw": "下星期周四晚上10点"}
+上星期星期二下午2点有比赛吗？	上星期星期二下午2点	Time	{"type": "Time", "year": 2020, "month": 5, "day": 26, "hour": 14, "minute": null, "second": null, "weekday": null, "raw": "上星期星期二下午2点"}
+周二下午3点有球赛吗？	周二下午3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 15, "minute": null, "second": null, "weekday": null, "raw": "周二下午3点"}
+下周二早上8点有球赛吗？	下周二早上8点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 9, "hour": 8, "minute": null, "second": null, "weekday": null, "raw": "下周二早上8点"}
+周二上午9点有球赛吗？	周二上午9点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 9, "minute": null, "second": null, "weekday": null, "raw": "周二上午9点"}
+周二8:00有球赛吗？	周二8:00	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 8, "minute": 0, "second": null, "weekday": null, "raw": "周二8:00"}
+11月4号晚上有球赛吗？	11月4号晚上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 11, "day": 4, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 11, "day": 5, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "11月4号晚上"}
+11月4号晚上九点有球赛吗？	11月4号晚上九点	Time	{"type": "Time", "year": 2020, "month": 11, "day": 4, "hour": 21, "minute": null, "second": null, "weekday": null, "raw": "11月4号晚上九点"}
+11月4号晚上九点半有球赛吗？	11月4号晚上九点半	Time	{"type": "Time", "year": 2020, "month": 11, "day": 4, "hour": 21, "minute": 30, "second": null, "weekday": null, "raw": "11月4号晚上九点半"}
+11月4号九点半有球赛吗？	11月4号九点半	Time	{"type": "Time", "year": 2020, "month": 11, "day": 4, "hour": 9, "minute": 30, "second": null, "weekday": null, "raw": "11月4号九点半"}
+4号九点半有球赛吗？	4号九点半	Time	{"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": 9, "minute": 30, "second": null, "weekday": null, "raw": "4号九点半"}
+上月4号九点半有球赛吗？	上月4号九点半	Time	{"type": "Time", "year": 2020, "month": 5, "day": 4, "hour": 9, "minute": 30, "second": null, "weekday": null, "raw": "上月4号九点半"}
+下个月4号有球赛吗？	下个月4号	Time	{"type": "Time", "year": 2020, "month": 7, "day": 4, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "下个月4号"}
+去年11月4日九点半有球赛吗？	去年11月4日九点半	Time	{"type": "Time", "year": 2019, "month": 11, "day": 4, "hour": 9, "minute": 30, "second": null, "weekday": null, "raw": "去年11月4日九点半"}
+明年11月4号九点半有球赛吗？	明年11月4号九点半	Time	{"type": "Time", "year": 2021, "month": 11, "day": 4, "hour": 9, "minute": 30, "second": null, "weekday": null, "raw": "明年11月4号九点半"}
+2019年11月4号九点半有球赛吗？	2019年11月4号九点半	Time	{"type": "Time", "year": 2019, "month": 11, "day": 4, "hour": 9, "minute": 30, "second": null, "weekday": null, "raw": "2019年11月4号九点半"}
+2019年11月4日 8:30有球赛吗?	2019年11月4日 8:30	Time	{"type": "Time", "year": 2019, "month": 11, "day": 4, "hour": 8, "minute": 30, "second": null, "weekday": null, "raw": "2019年11月4日 8:30"}
+2019-11-4 8:30有球赛吗?	2019-11-4 8:30	Time	{"type": "Time", "year": 2019, "month": 11, "day": 4, "hour": 8, "minute": 30, "second": null, "weekday": null, "raw": "2019-11-4 8:30"}
+2019.11.4 8点半有球赛吗?	2019.11.4 8点半	Time	{"type": "Time", "year": 2019, "month": 11, "day": 4, "hour": 8, "minute": 30, "second": null, "weekday": null, "raw": "2019.11.4 8点半"}
+2019.11.4早上8点半有球赛吗?	2019.11.4早上8点半	Time	{"type": "Time", "year": 2019, "month": 11, "day": 4, "hour": 8, "minute": 30, "second": null, "weekday": null, "raw": "2019.11.4早上8点半"}
+2019.11.4晚上8点半有球赛吗?	2019.11.4晚上8点半	Time	{"type": "Time", "year": 2019, "month": 11, "day": 4, "hour": 20, "minute": 30, "second": null, "weekday": null, "raw": "2019.11.4晚上8点半"}
+27日晚3点有球赛吗？	27日晚3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 27, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "27日晚3点"}
+27日凌晨3点有球赛吗？	27日凌晨3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 27, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "27日凌晨3点"}
+26号下午3点有球赛吗？	26号下午3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 26, "hour": 15, "minute": null, "second": null, "weekday": null, "raw": "26号下午3点"}
+北京时间19:35	19:35	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 19, "minute": 35, "second": null, "weekday": null, "raw": "19:35"}
+去年	去年	Time	{"type": "Time", "year": 2019, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "去年"}
+去年5月	去年5月	Time	{"type": "Time", "year": 2019, "month": 5, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "去年5月"}
+前年	前年	Time	{"type": "Time", "year": 2018, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "前年"}
+前年3月	前年3月	Time	{"type": "Time", "year": 2018, "month": 3, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "前年3月"}
+明年	明年	Time	{"type": "Time", "year": 2021, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "明年"}
+明年4月	明年4月	Time	{"type": "Time", "year": 2021, "month": 4, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "明年4月"}
+18年	18年	Time	{"type": "Time", "year": 2018, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "18年"}
+97年	97年	Time	{"type": "Time", "year": 1997, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "97年"}
+19年4月	19年4月	Time	{"type": "Time", "year": 2019, "month": 4, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "19年4月"}
+5号到19号的球赛	5号到19号	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 5, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "5号"}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 19, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "19号"}, "raw": "5号到19号"}
+2019-2020的球赛	2019-2020	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2019, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "2019"}, "end": {"type": "Time", "year": 2020, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "2020"}, "raw": "2019-2020"}
+2018至2019的球赛	2018至2019	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2018, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "2018"}, "end": {"type": "Time", "year": 2019, "month": null, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "2019"}, "raw": "2018至2019"}
+18年12月到19年4月的球赛	18年12月到19年4月	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2018, "month": 12, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "18年12月"}, "end": {"type": "Time", "year": 2019, "month": 4, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "19年4月"}, "raw": "18年12月到19年4月"}
+去年3月到今年5月的球赛	去年3月到今年5月	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2019, "month": 3, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "去年3月"}, "end": {"type": "Time", "year": 2020, "month": 5, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "今年5月"}, "raw": "去年3月到今年5月"}
+去年3月到5月的球赛	去年3月到5月	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2019, "month": 3, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "去年3月"}, "end": {"type": "Time", "year": 2019, "month": 5, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "5月"}, "raw": "去年3月到5月"}
+王天明	
+王今	
+每年2月3号8点半	每年2月3号8点半	TimeCycle	{"type": "TimeCycle", "unit": "YEAR", "time": {"type": "Time", "year": 2020, "month": 2, "day": 3, "hour": 8, "minute": 30, "second": null, "weekday": null, "raw": "2月3号8点半"}, "raw": "每年2月3号8点半"}
+每个月4号七点	每个月4号七点	TimeCycle	{"type": "TimeCycle", "unit": "MONTH", "time": {"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": 7, "minute": null, "second": null, "weekday": null, "raw": "4号七点"}, "raw": "每个月4号七点"}
+每天3点53分	每天3点53分	TimeCycle	{"type": "TimeCycle", "unit": "DAY", "time": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 3, "minute": 53, "second": null, "weekday": null, "raw": "3点53分"}, "raw": "每天3点53分"}
+每小时13分	每小时13分	TimeCycle	{"type": "TimeCycle", "unit": "HOUR", "time": {"type": "Time", "year": null, "month": null, "day": null, "hour": null, "minute": "13", "second": null, "weekday": null, "raw": null}, "raw": "每小时13分"}
+每个工作日早上八点	工作日早上八点	TimeCycle	{"type": "TimeCycle", "unit": "WEEKDAY", "time": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 8, "minute": null, "second": null, "weekday": null, "raw": "早上八点"}, "raw": "工作日早上八点"}
+法定工作日晚上九点	法定工作日晚上九点	TimeCycle	{"type": "TimeCycle", "unit": "WORKDAY", "time": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 21, "minute": null, "second": null, "weekday": null, "raw": "晚上九点"}, "raw": "法定工作日晚上九点"}
+3年2个月4天8小时7分7秒后	3年2个月4天8小时7分7秒后	TimeDelta	{"type": "TimeDelta", "years": 3, "months": 2, "days": 4, "hours": 8, "minutes": 7, "seconds": 7, "weeks": 0, "weekday": 0, "raw": "3年2个月4天8小时7分7秒后"}
+2个月4天8个钟7分7秒后	2个月4天8个钟7分7秒后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 2, "days": 4, "hours": 8, "minutes": 7, "seconds": 7, "weeks": 0, "weekday": 0, "raw": "2个月4天8个钟7分7秒后"}
+4天8小时7分7秒后	4天8小时7分7秒后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 4, "hours": 8, "minutes": 7, "seconds": 7, "weeks": 0, "weekday": 0, "raw": "4天8小时7分7秒后"}
+8小时7分7秒后	8小时7分7秒后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 8, "minutes": 7, "seconds": 7, "weeks": 0, "weekday": 0, "raw": "8小时7分7秒后"}
+7分7秒后	7分7秒后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 0, "minutes": 7, "seconds": 7, "weeks": 0, "weekday": 0, "raw": "7分7秒后"}
+3周后	3周后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 0, "minutes": 0, "seconds": 0, "weeks": 3, "weekday": 0, "raw": "3周后"}
+3个星期后	3个星期后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 0, "minutes": 0, "seconds": 0, "weeks": 3, "weekday": 0, "raw": "3个星期后"}
+5个工作日后	5个工作日后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 0, "minutes": 0, "seconds": 0, "weeks": 0, "weekday": 5, "raw": "5个工作日后"}
+过5天4小时	过5天4小时	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 5, "hours": 4, "minutes": 0, "seconds": 0, "weeks": 0, "weekday": 0, "raw": "过5天4小时"}
+过4小时7分钟	过4小时7分钟	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 4, "minutes": 7, "seconds": 0, "weeks": 0, "weekday": 0, "raw": "过4小时7分钟"}
+5个小时后	5个小时后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 5, "minutes": 0, "seconds": 0, "weeks": 0, "weekday": 0, "raw": "5个小时后"}
