@@ -250,18 +250,17 @@ class Time:
         return num, offset
 
     @staticmethod
-    def compute_offset(weekday, base):
-        if base.weekday() == 6 and not weekday.startswith("-") and not weekday.startswith("+"):
-            day_offset = int(weekday)
+    def compute_offset(weekday, base): 
+        """计算与基准时间的偏移天数，要特别留意基准时间为周日的情况。
+        """
+        if base.weekday() == 6 and not weekday.startswith("-") and not weekday.startswith("+"):  # 基准时间为周日
+            day_offset = int(weekday) + 1 if weekday != "6" else 0
         else:
             day_offset = int(weekday[-1]) - base.weekday()
         week_offset = weekday.count("-") * -1 + weekday.count("+")
         if week_offset != 0:
-            if base.weekday() == 6 and weekday[-1] != "6":
-                if week_offset < 0:
-                    week_offset += 1
-                else:
-                    week_offset -= 1
+            if base.weekday() == 6 and weekday[-1] != "6":  # 基准时间为周日
+                week_offset += 1
             day_offset += 7 * week_offset
         return day_offset
 

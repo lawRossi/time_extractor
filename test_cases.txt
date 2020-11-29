@@ -43,6 +43,9 @@
 下周星期三晚上有球赛吗？	下周星期三晚上	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2020, "month": 6, "day": 10, "hour": 18, "minute": 0, "second": 0, "weekday": null, "raw": null}, "end": {"type": "Time", "year": 2020, "month": 6, "day": 11, "hour": 5, "minute": 59, "second": 0, "weekday": null, "raw": null}, "raw": "下周星期三晚上"}
 下星期周四晚上10点有比赛吗？	下星期周四晚上10点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 11, "hour": 22, "minute": null, "second": null, "weekday": null, "raw": "下星期周四晚上10点"}
 上星期星期二下午2点有比赛吗？	上星期星期二下午2点	Time	{"type": "Time", "year": 2020, "month": 5, "day": 26, "hour": 14, "minute": null, "second": null, "weekday": null, "raw": "上星期星期二下午2点"}
+周日下午3点有球赛吗？	周日下午3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 7, "hour": 15, "minute": null, "second": null, "weekday": null, "raw": "周日下午3点"}
+上周日下午3点有球赛吗？	上周日下午3点	Time	{"type": "Time", "year": 2020, "month": 5, "day": 31, "hour": 15, "minute": null, "second": null, "weekday": null, "raw": "上周日下午3点"}
+下周日下午3点有球赛吗？	下周日下午3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 14, "hour": 15, "minute": null, "second": null, "weekday": null, "raw": "下周日下午3点"}
 周二下午3点有球赛吗？	周二下午3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 15, "minute": null, "second": null, "weekday": null, "raw": "周二下午3点"}
 下周二早上8点有球赛吗？	下周二早上8点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 9, "hour": 8, "minute": null, "second": null, "weekday": null, "raw": "下周二早上8点"}
 周二上午9点有球赛吗？	周二上午9点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 9, "minute": null, "second": null, "weekday": null, "raw": "周二上午9点"}
