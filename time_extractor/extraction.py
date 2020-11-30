@@ -251,7 +251,7 @@ class Time:
 
     @staticmethod
     def compute_offset(weekday, base): 
-        """计算与基准时间的偏移天数，要特别留意基准时间为周日的情况。
+        """计算与基准时间的偏移天数，要特别留意基准时间为“周日”时的处理。
         """
         if base.weekday() == 6 and not weekday.startswith("-") and not weekday.startswith("+"):  # 基准时间为周日
             day_offset = int(weekday) + 1 if weekday != "6" else 0
