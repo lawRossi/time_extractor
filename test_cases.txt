@@ -84,8 +84,10 @@
 18年12月到19年4月的球赛	18年12月到19年4月	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2018, "month": 12, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "18年12月"}, "end": {"type": "Time", "year": 2019, "month": 4, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "19年4月"}, "raw": "18年12月到19年4月"}
 去年3月到今年5月的球赛	去年3月到今年5月	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2019, "month": 3, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "去年3月"}, "end": {"type": "Time", "year": 2020, "month": 5, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "今年5月"}, "raw": "去年3月到今年5月"}
 去年3月到5月的球赛	去年3月到5月	TimeRange	{"type": "TimeRange", "start": {"type": "Time", "year": 2019, "month": 3, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "去年3月"}, "end": {"type": "Time", "year": 2019, "month": 5, "day": null, "hour": null, "minute": null, "second": null, "weekday": null, "raw": "5月"}, "raw": "去年3月到5月"}
-王天明	
-王今	
+王天明
+王今
+明年5点半
+3月五点半
 每年2月3号8点半	每年2月3号8点半	TimeCycle	{"type": "TimeCycle", "unit": "YEAR", "time": {"type": "Time", "year": 2020, "month": 2, "day": 3, "hour": 8, "minute": 30, "second": null, "weekday": null, "raw": "2月3号8点半"}, "raw": "每年2月3号8点半"}
 每个月4号七点	每个月4号七点	TimeCycle	{"type": "TimeCycle", "unit": "MONTH", "time": {"type": "Time", "year": 2020, "month": 6, "day": 4, "hour": 7, "minute": null, "second": null, "weekday": null, "raw": "4号七点"}, "raw": "每个月4号七点"}
 每天3点53分	每天3点53分	TimeCycle	{"type": "TimeCycle", "unit": "DAY", "time": {"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 3, "minute": 53, "second": null, "weekday": null, "raw": "3点53分"}, "raw": "每天3点53分"}

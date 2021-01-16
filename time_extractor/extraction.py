@@ -10,6 +10,7 @@ from itertools import groupby
 from operator import itemgetter
 from .util import str2number, to_digit
 import arrow
+import traceback
 
 
 class TimeExtractor:
@@ -221,6 +222,16 @@ class Time:
             elif time_.year < 100:
                 time_.year += 1900
         time._addjust_with_time(time_)
+    
+    @staticmethod
+    def _verfiy(time):
+        if time.year is not None  and time.month is None and time.day is not None:
+            return False
+        if time.hour is not None and time.minute is None and time.second is not None:
+            return False
+        if time.hour is not None and (time.year is not None or time.month is not None) and time.day is None:
+            return False
+        return True
 
     @staticmethod
     def _handle_offset(time, year_offset, month_offset, day_offset, base):
@@ -276,10 +287,11 @@ class Time:
             time.minute = minute
             time.second = second
             time.weekday = Time.parse_weekday(match)
+            if not Time._verfiy(time):
+                return None
             Time.normalize(time, base, handle_special_year)
             return time
         except:
-            import traceback
             traceback.print_exc()
             return None
 
