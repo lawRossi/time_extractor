@@ -14,7 +14,7 @@ import traceback
 
 
 class TimeExtractor:
-    digit = "一二三四五六七八九十0-9壹贰叁肆伍陆柒捌玖零"
+    digit = "一二三四五六七八九十0-9壹贰叁肆伍陆柒捌玖零两"
     year = f"((?P<year>(?<![{digit}])[{digit}]{{4}}(?![{digit}]))|(?P<year>(?<![{digit}])[{digit}]{{2}})年)"
     month = f"((?P<month>(?<![{digit}])[{digit}]{{1,2}})(?![{digit}]))"
     day = f"((?P<day>(?<![{digit}])[{digit}]{{1,2}})(?![{digit}]))"

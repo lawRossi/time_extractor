@@ -13,7 +13,7 @@
 昨晚十二点有球赛吗？	昨晚十二点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 0, "minute": null, "second": null, "weekday": null, "raw": "昨晚十二点"}
 昨晚三点有球赛吗？	昨晚三点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "昨晚三点"}
 今天晚上8点有球赛吗？	今天晚上8点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 2, "hour": 20, "minute": null, "second": null, "weekday": null, "raw": "今天晚上8点"}
-今天晚上3点有球赛吗？	今天晚上3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "今天晚上3点"}
+今天晚上两点有球赛吗？	今天晚上两点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 2, "minute": null, "second": null, "weekday": null, "raw": "今天晚上两点"}
 今晚3点有球赛吗？	今晚3点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 3, "minute": null, "second": null, "weekday": null, "raw": "今晚3点"}
 明晚9点有球赛吗？	明晚9点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 21, "minute": null, "second": null, "weekday": null, "raw": "明晚9点"}
 明早9点有球赛吗？	明早9点	Time	{"type": "Time", "year": 2020, "month": 6, "day": 3, "hour": 9, "minute": null, "second": null, "weekday": null, "raw": "明早9点"}
@@ -105,3 +105,4 @@
 过5天4小时	过5天4小时	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 5, "hours": 4, "minutes": 0, "seconds": 0, "weeks": 0, "weekday": 0, "raw": "过5天4小时"}
 过4小时7分钟	过4小时7分钟	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 4, "minutes": 7, "seconds": 0, "weeks": 0, "weekday": 0, "raw": "过4小时7分钟"}
 5个小时后	5个小时后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 5, "minutes": 0, "seconds": 0, "weeks": 0, "weekday": 0, "raw": "5个小时后"}
+两个小时后	两个小时后	TimeDelta	{"type": "TimeDelta", "years": 0, "months": 0, "days": 0, "hours": 2, "minutes": 0, "seconds": 0, "weeks": 0, "weekday": 0, "raw": "两个小时后"}
