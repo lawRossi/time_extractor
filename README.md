@@ -3,7 +3,7 @@
 ![Licence](https://img.shields.io/github/license/lawRossi/time_extractor)
 ![Python](https://img.shields.io/badge/Python->=3.6-blue)
 
-一个简单实用的中文时间抽取和标注化工具包。欢迎使用，如发现问题或有优化建议，欢迎反馈和赐教。
+一个简单实用的中文时间抽取和标准化工具包。欢迎使用，如发现问题或有优化建议，欢迎反馈和赐教。
 
 
 ## 安装
